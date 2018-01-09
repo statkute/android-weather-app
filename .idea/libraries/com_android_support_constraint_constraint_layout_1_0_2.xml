@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.android.support.constraint:constraint-layout-1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../weather-app-andoid/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5775d4b9033bcea527281ec4cdecfe95/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../weather-app-andoid/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5775d4b9033bcea527281ec4cdecfe95/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
